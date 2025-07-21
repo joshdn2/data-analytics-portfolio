@@ -1,0 +1,11 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 100,
+            "driver": "DuckDB",
+            "database": "../instacart.duckdb",
+            "name": "InstacartDB"
+        }
+    ]
+}
