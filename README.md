@@ -40,12 +40,18 @@ I’m now doubling-down on that skillset—proof > certificates, by shipping rea
 ##  Repo Structure
 
 /data-analytics-portfolio
+
 │ README.md
-├─ week1_sql/
-├─ week2_pandas/
-├─ project1_zillow/
-└─ assets/
-└─ screenshots/
+
+─ week1_sql/
+
+─ week2_pandas/
+
+─ project1_zillow/
+
+─ assets/
+
+─ screenshots/
 
 
 Each subfolder includes raw data links, code/notebooks, and a short `RESULTS.md` explaining the business insight.
