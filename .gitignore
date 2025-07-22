@@ -6,3 +6,6 @@ sql/raw/instacartData/order_products__prior.csv
 sql/raw/instacartData/order_products__train.csv
 sql/raw/instacartData/orders.csv
 sql/raw/instacartData/order_products__prior.csv
+
+# ignore embedded repo
+data-analytics-portfolio/

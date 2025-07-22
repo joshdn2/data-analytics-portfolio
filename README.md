@@ -22,8 +22,8 @@ This repo is my public build-log: every folder contains a deliverable that demon
 
 After several years improving products & internal processes, I found I enjoyed **digging through data to uncover efficiency wins** and framing those insights for stakeholders. 
 I worked as a software engineer and product manager on private company software solutions, so I decided my re-education in the analytics space needed to be demonstrable, hence this repo. 
-I have worked parttime on a marketing agency of my own and have decided it's time to return to the corporate scene. 
-I’m now doubling-down on that skillset—proof > certificates, by shipping real, inspectable assets every week.
+I have worked part-time on a marketing agency of my own and have decided it's time to return to the corporate scene. 
+I’m now doubling-down on that skillset; proof > certificates, by shipping real, inspectable assets every week.
 
 ---
 
