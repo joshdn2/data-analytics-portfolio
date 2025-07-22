@@ -1,11 +1,9 @@
 # Ignore database files
 *.duckdb
 # Ignore huge raw files
-sql/raw/instacartData/orders.csv
-sql/raw/instacartData/order_products__prior.csv
-sql/raw/instacartData/order_products__train.csv
-sql/raw/instacartData/orders.csv
-sql/raw/instacartData/order_products__prior.csv
+sql/instacart/orders.csv
+sql/instacart/order_products__prior.csv
+sql/instacart/order_products__train.csv
 
 # ignore embedded repo
 data-analytics-portfolio/
