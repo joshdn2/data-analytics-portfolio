@@ -6,7 +6,7 @@ This repo is my public build-log: every folder contains a deliverable that demon
 | Week | Focus                  | Key Deliverable | Status | Link |
 |------|------------------------|-----------------|--------|------|
 | 0    | Setup & Goals          | `README.md` + checklist | done | - |
-| 1    | SQL Foundations        | `instacart_core_analysis.ipynb`  | done | - |
+| 1    | SQL Foundations        | `instacart_core_analysis.ipynb`  | done | [link](https://github.com/joshdn2/data-analytics-portfolio/tree/main/sql/instacart) |
 | 2    | Excel Foundations        | `excel_analysis.xlsx`  | WIP | - |
 | 3    | Python & Pandas        | `netflix_EDA.ipynb` | coming soon | - |
 | 4    | Advanced SQL + ETL     | `project1_pipeline.ipynb` | coming soon | - |
