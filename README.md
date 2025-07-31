@@ -30,6 +30,7 @@ I’m now doubling-down on this skillset by shipping real, inspectable assets ev
 ##  Stack & Tools (100% Free)
 
 * **SQL:** With Python as the vehicle 
+* **Excel** PivotTables, Lookups, General Excel Functions and capabilities
 * **Python / Pandas / Jupyter:** ipynb notebooks  
 * **Relational DB:** DuckDB (embedded)  
 * **Dashboards:** Google Looker Studio  
