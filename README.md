@@ -7,7 +7,7 @@ This repo is my public build-log: every folder contains a deliverable that demon
 |------|------------------------|-----------------|--------|------|
 | 0    | Setup & Goals          | `README.md` + checklist | done | - |
 | 1    | SQL Foundations        | `instacart_core_analysis.ipynb`  | done | [link](https://github.com/joshdn2/data-analytics-portfolio/tree/main/sql/instacart) |
-| 2    | Analytic Excel Skills  | `excel_analysis.xlsx`  | WIP | - |
+| 2    | Analytic Excel Skills  | `candy_sales_analysis.xlsx`  | done | [link](https://1drv.ms/x/c/4f16675b56ffc124/EesJ7zXzfjFIqKworaekU5cBv1p6Q_dI_3HfWGtXThrCMA?e=NhADzO) |
 | 3    | Python & Pandas        | `netflix_EDA.ipynb` | coming soon | - |
 | 4    | Advanced ETL     | `project1_pipeline.ipynb` | coming soon | - |
 | 5    | BI Dashboard           | Looker Studio “Rental Trends” | coming soon | - |
