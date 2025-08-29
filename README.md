@@ -1,6 +1,6 @@
 # 🛠 Data-Analytics Portfolio & Sprint Tracker
 
-Hi, I’m **Josh** - a former product/dev professional now working to pivot into **analytics & consulting** roles.  
+Hi, I’m **Josh** - a former product/dev professional now working on upping my **analytics & consulting** skills.  
 This repo is my public build-log: every folder contains a deliverable that demonstrates a specific skill (SQL, Python/Pandas, BI dashboards, consulting storytelling).
 
 | Week | Focus                  | Key Deliverable | Status | Link |
@@ -9,16 +9,15 @@ This repo is my public build-log: every folder contains a deliverable that demon
 | 1    | SQL Foundations        | `instacart_core_analysis.ipynb`  | done | [link](https://github.com/joshdn2/data-analytics-portfolio/tree/main/sql/instacart) |
 | 2    | Analytic Excel Skills  | `candy_sales_analysis.xlsx`  | done | [link](https://1drv.ms/x/c/4f16675b56ffc124/EesJ7zXzfjFIqKworaekU5cBv1p6Q_dI_3HfWGtXThrCMA?e=NhADzO) |
 | 3    | Python & Pandas        | `netflix_EDA.ipynb` | coming soon | - |
-| 4    | Advanced ETL     | `project1_pipeline.ipynb` | coming soon | - |
-| 5    | BI Dashboard           | Looker Studio “Rental Trends” | coming soon | - |
+| 4    | Advanced ETL           | `project1_pipeline.ipynb` | coming soon | - |
+| 5    | BI Dashboard           | Looker Studio Dashboard | coming soon | - |
 | 6    | Consulting Storytelling| Google Slides deck | coming soon | - |
-| 7-8  | Interview Prep & Push  | Resume v2 + applications | coming soon | - |
 
 > **Live site:** Once GitHub Pages is enabled you’ll be able to view the rendered version of this README at `https://joshdn2.github.io/data-analytics-portfolio` or live embedded at `joshdan.dev`
 
 ---
 
-##  Why the Pivot?
+##  Why the data focus?
 
 After several years improving products & internal processes, I found I enjoyed **digging through data to uncover efficiency wins** and framing those insights for stakeholders. 
 I worked as a software engineer and product manager on private company software solutions, so I decided my re-education in the analytics space needed to be demonstrable, hence this repo. 
