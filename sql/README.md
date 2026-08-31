@@ -4,7 +4,7 @@ This folder contains exploratory SQL queries and EDA using the [Instacart Market
 
 ## The Project
 
-This project is part of my career pivot into and exploration of data analytics and consulting. I’ve designed this as a hands-on portfolio to show how I use my dev, product, marketing, and operations experience to explore structured data, ask business-relevant questions, and surface insights through SQL (with Python + DuckDB as the vehicle). 
+I’ve designed this as a hands-on portfolio to show how I use my dev, product, marketing, and operations experience to explore structured data, ask business-relevant questions, and surface insights through SQL (with Python + DuckDB as the vehicle).
 
 The dataset simulates real-world grocery shopping behavior and consists of millions of grocery orders.
 
@@ -18,7 +18,7 @@ The dataset simulates real-world grocery shopping behavior and consists of milli
 
 ---
 
-## Dataset 
+## Dataset
 
 You can download the full original raw dataset from this Kaggle Link:
 
